@@ -1,3 +1,5 @@
+CLONE - debug always ON
+
 # WebViewDebug Android Plugin for Cordova 3.2 #
 By Jamie Starke
 
