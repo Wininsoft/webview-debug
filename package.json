@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "https://github.com/Wininsoft"
+  },
+  "cordova": {
+    "id": "cordova-plugin-webview-debug",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/Wininsoft/webview-debug",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "phonegap",
+    "plugin"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-webview-debug",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wininsoft/webview-debug.git"
+  },
+  "scripts": {},
+  "version": "0.0.1",
+  "description": "A cordova plugin, used to get data from content:// file"
+}

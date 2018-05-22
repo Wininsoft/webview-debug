@@ -1,2 +1,5 @@
 .project
 .settings
+/.vs/webview-debug/v15
+/.vs/slnx.sqlite
+/.vs/config
